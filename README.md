@@ -15,7 +15,7 @@
 [![Release Version][7]][8]
 [![Contact Me][10]][11]
 
-[固件使用说明](https://github.com/xiaoqingfengATGH/HomeLede/wiki)
+[固件使用说明](https://github.com/tony198911/HomeLede/wiki)
 
 + 基于Lede OpenWrt 及来自Lienol和若干自行维护的软件包（Feed）
 + 结合家庭x86软路由场景需要定制
